@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Abrarul Bangla Waz 2022</string>
+
+    <string name="life_Story">আবরারুল হক আসিফ  জীবন কাহিনী</string>
+    <string name="Waz">আবরারুল হক আসিফ  নতুন ওয়াজ</string>
+    <string name="life">আবরারুল হক আসিফ  জীবন পরিচালনা নিয়ে বক্তব্য</string>
+    <string name="islam">আবরারুল হক আসিফ এর ইসলাম ব্লগ</string>
+
+    <string name="life_web_link">https://en.wikipedia.org/wiki/Abrarul_Haq_Haqqi</string>
+    <string name="banner_ad">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

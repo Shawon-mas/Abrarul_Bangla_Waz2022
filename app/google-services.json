@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407151404171",
+    "project_id": "abrarul-bangla-waz-2022",
+    "storage_bucket": "abrarul-bangla-waz-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407151404171:android:b3371eb091b3a5d547a08e",
+        "android_client_info": {
+          "package_name": "com.abrarulwaz2022.abrarulbanglawaz2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407151404171-e2n7cts5fp3q8o6rk3orbdrrqfg5psb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEx5_ASpOPk0LoUpWBNzbmv5EnZYLlX74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407151404171-e2n7cts5fp3q8o6rk3orbdrrqfg5psb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
