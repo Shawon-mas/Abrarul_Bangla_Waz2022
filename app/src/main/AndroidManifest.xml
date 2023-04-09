@@ -11,20 +11,30 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AzhariBanglaWaz2022">
-        <activity android:name="com.abrarulwaz2022.abrarulbanglawaz2022.views.IslamLife"></activity>
+        <activity
+            android:name="com.abrarulwaz2022.abrarulbanglawaz2022.views.splash_screen"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity android:name="com.abrarulwaz2022.abrarulbanglawaz2022.views.IslamLife" />
         <activity android:name="com.abrarulwaz2022.abrarulbanglawaz2022.views.LifeActivity" />
         <activity android:name="com.abrarulwaz2022.abrarulbanglawaz2022.views.WazActivity" />
         <activity android:name="com.abrarulwaz2022.abrarulbanglawaz2022.views.LifeStoryLoad" />
-        <activity android:name="com.abrarulwaz2022.abrarulbanglawaz2022.views.MainActivity" android:exported="true">
+        <activity
+            android:name="com.abrarulwaz2022.abrarulbanglawaz2022.views.MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-1905179364235619~7584871581"/>
+            android:value="ca-app-pub-1905179364235619~7584871581" />
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
